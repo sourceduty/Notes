@@ -12,3 +12,4 @@
 4. To me, a project is a larger task with more than one script.
 5. I use a lot of different words that mean the same thing.
 6. I use the same design process in programming as I do in 3D modelling.
+7. I prefer to use a repository for these notes instead of gists.
