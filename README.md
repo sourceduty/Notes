@@ -3,7 +3,6 @@
 🗒️ Short notes about GitHub work and related information.
 
 #
-
 ### GitHub Limits
 
 Repository Size Limit: 
@@ -15,7 +14,7 @@ Upload Limits:
 - Git LFS (Large File Storage) available for larger files.
 - Single push limit: 2 GB.
 
-
+#
 ### GitHub Statistics 
 
 Largest Repository on GitHub:
@@ -24,7 +23,7 @@ Largest Repository on GitHub:
 GitHub User with Most Repositories:
 - Among GitHub users, [Sindre Sorhus](https://github.com/sindresorhus) stands out with 1,063 repositories, alongside a significant number of followers.
 
-
+#
 ### Alex's GitHub Notes
 
 - I indicate versions of my code very loosely.
